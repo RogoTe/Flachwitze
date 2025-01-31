@@ -244,6 +244,7 @@ Gerne weitere als Pull-Request hinzufügen.
 - Was ist rothaarig, gesanglich begabt und kann nicht gut malen? Ed Schmieren.
 - Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand.
 - Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
+- Was ist schwarz-weiß und kommt nicht vom Fleck? Ein Klebra.
 - Was ist schwarz-weiß und explodiert? Ein Sprenguin.
 - Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
 - Was ist schwarz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
